@@ -7,6 +7,6 @@ This app is made to learn the basics of ReactJS. This application does not invol
 
 
 -- This application involves babel (https://babeljs.io) for basic configuration on javascript. 
--- This app also adds lite-server (https://www.npmjs.com/package/lite-server) for server use on localhost (development only)
+-- This app also adds lite-server (https://www.npmjs.com/package/lite-server) for server use on localhost (development only).
 
 If you're interested, feel free to fork and refactor some of the code here to make it more effective and efficient.
