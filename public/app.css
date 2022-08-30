@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(37, 4, 68);
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    margin:20px;
+}
+
+
+button {
+    padding:10px 20px;
+    background-color: rgb(214, 21, 79);
+    color:white;
+    font-size: 20px;
+    border-style: none;
+    margin:10px;
+}
+
+li{
+    margin:10px;
+}
+
+a[href]{
+    text-decoration: none;
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color:yellow;
+}
+
+input{
+    height: 35px;
+}
+
+.alert{
+    color: red;
+}
