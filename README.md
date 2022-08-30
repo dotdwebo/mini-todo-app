@@ -20,7 +20,7 @@ Then the program will:
 
   **Run the lite-server (on localhost:3000 or localhost:3001)**,
   
-  **Transpile JSX file from src folder to public folder automatically**, and 
+  **Transpile JSX file from src/ folder to public/ folder automatically**, and 
   
   **Provide real time updates via the --watch feature on babel**.
 
