@@ -16,7 +16,10 @@ To run the application, please type on your terminal:
 
 `npm run start`
 
-Then the program will **run the lite-server**, **transpile jsx file from src folder to public folder automatically**, and **provide real time updates via the --watch feature on babel**.
+Then the program will
+  **run the lite-server**, 
+  **transpile jsx file from src folder to public folder automatically**, 
+    and **provide real time updates via the --watch feature on babel**.
 
 
 If you're interested, feel free to fork and refactor some of the code here to make it more effective and efficient.
