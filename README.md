@@ -1,6 +1,7 @@
 # mini-todo-app
 ### A Simple Project by a React Newbie
 
+![A Simple Project!](/public/todolist.png "Todolist")
 
 **Mini Todo App** is an application that aims to create to-do-lists. You can input, edit, cancel, check, and delete data on the form.
 This application is made to learn the basics of ReactJS. This application does not involve a database management system (such as: mysql, mariadb, postgresql, mongodb, and the like).
