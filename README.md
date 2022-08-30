@@ -1,5 +1,5 @@
 # mini-todo-app
-### A Simple Project by a React Newbie
+### A Simple Project by .dWebo/
 
 ![A Simple Project!](/public/todolist.png "Todolist")
 
