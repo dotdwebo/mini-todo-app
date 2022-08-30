@@ -13,7 +13,7 @@ This app is made to learn the basics of ReactJS. This application does not invol
 
 To run the application, please type:
 
-`**npm run start**`
+`npm run start`
 
 Then the program will run the lite-server and provide real time updates via the --watch feature on babel.
 
