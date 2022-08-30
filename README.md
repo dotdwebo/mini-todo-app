@@ -18,7 +18,7 @@ To run the application, please type on your terminal:
 
 Then the program will:
 
-  **Run the lite-server**,
+  **Run the lite-server (localhost:3000 or localhost:3001)**,
   
   **Transpile jsx file from src folder to public folder automatically**, and 
   
