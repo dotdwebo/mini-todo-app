@@ -27,7 +27,13 @@ This application is made to learn the basics of ReactJS. This application does n
 ***
 ## Run the Application
 
-To run the application, please type on your terminal:
+Change your directory to the repo located:
+
+>
+> ### `cd mini-todo-app`
+>
+
+Type on your terminal, to run the application:
 
 >
 > ### `  npm run start `
