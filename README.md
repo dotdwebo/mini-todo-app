@@ -24,6 +24,7 @@ This application is made to learn the basics of ReactJS. This application does n
 - BabelJS CDN (https://babeljs.io) : For transpiling JSX to any JS that is suitable on the most browsers.
 - Lite-Server (https://www.npmjs.com/package/lite-server) : For serving a webapp, providing a fallback for browser history API, and loading in the browser. (development only)
 
+***
 ## Run the Application
 
 To run the application, please type on your terminal:
