@@ -47,4 +47,4 @@ Then the program will:
 
 If you're interested, feel free to fork and refactor some of the code here to make it more effective and efficient.
 - email: iamdwebo@proton.me
-- twitter: twitter.com/dotdwebo
+- twitter: https://twitter.com/dotdwebo
