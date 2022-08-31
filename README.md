@@ -12,10 +12,14 @@ This application is made to learn the basics of ReactJS. This application does n
 -- This application also adds lite-server (https://www.npmjs.com/package/lite-server) for server use on localhost (development only).
 
 
+# Run the Application
 
 To run the application, please type on your terminal:
 
-> ## `  npm run start `
+>
+> ### `  npm run start `
+>
+
 
 Then the program will:
 
