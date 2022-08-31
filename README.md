@@ -10,6 +10,10 @@
 **Mini Todo App** is an application that aims to create to-do-lists. You can input, edit, cancel, check, and delete data on the form.
 This application is made to learn the basics of ReactJS. This application does not involve a database management system (such as: mysql, mariadb, postgresql, mongodb, and the like).
 
+***
+## Requirement
+
+- Make sure Node JS and NPM are installed on your computer.
 
 - This application involves babel (https://babeljs.io) for basic configuration on javascript. 
 
