@@ -3,8 +3,10 @@
 
 ![Mini Todo App!](/public/minitodoapp.png "Minitodoapp")
 
-## Description
 ***
+
+## Description
+
 **Mini Todo App** is an application that aims to create to-do-lists. You can input, edit, cancel, check, and delete data on the form.
 This application is made to learn the basics of ReactJS. This application does not involve a database management system (such as: mysql, mariadb, postgresql, mongodb, and the like).
 
@@ -14,6 +16,7 @@ This application is made to learn the basics of ReactJS. This application does n
 -- This application also adds lite-server (https://www.npmjs.com/package/lite-server) for server use on localhost (development only).
 
 ***
+
 ## Run the Application
 
 To run the application, please type on your terminal:
