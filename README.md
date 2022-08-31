@@ -15,7 +15,7 @@ This application is made to learn the basics of ReactJS. This application does n
 
 To run the application, please type on your terminal:
 
-` npm run start `
+> ` npm run start `
 
 Then the program will:
 
