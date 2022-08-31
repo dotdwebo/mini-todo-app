@@ -35,9 +35,9 @@ Change your directory to the repo located:
 
 Type on your terminal, to run the application:
 
->
-> ### `  npm run start `
->
+```
+ ### `  npm run start `
+```
 
 
 Then the program will:
