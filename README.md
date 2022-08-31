@@ -14,12 +14,15 @@ This application is made to learn the basics of ReactJS. This application does n
 ## Requirement
 
 - Make sure Node JS and NPM are installed on your computer.
+ 
 
-- This application involves babel (https://babeljs.io) for basic configuration on javascript. 
-
-- This application also adds lite-server (https://www.npmjs.com/package/lite-server) for server use on localhost (development only).
 
 ***
+## Main Packages
+
+- ReactJS CDN (https://reactjs.org): For building User Interface (UI) based on UI components.
+- BabelJS CDN (https://babeljs.io) : For transpiling JSX to any JS that is suitable on the most browsers.
+- Lite-Server (https://www.npmjs.com/package/lite-server) : For serving a webapp, providing a fallback for browser history API, and loading in the browser. (development only)
 
 ## Run the Application
 
