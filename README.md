@@ -27,7 +27,7 @@ This application is made to learn the basics of ReactJS. This application does n
 ***
 ## Run the Application
 
-1. Change your directory to the repo located:
+1. Change your directory to where the repo is.:
 
 ```
    cd mini-todo-app
