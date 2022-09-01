@@ -1,7 +1,6 @@
 {
-  "name": "newbie",
+  "name": "mini todo app",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir public -w",
     "serve": "lite-server --baseDir public",
